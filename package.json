@@ -1,6 +1,7 @@
+// Yeah
 {
   "name": "wdu",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "npm clone can use json5",
   "main": "lib/wdu.js",
   "bin": {
