@@ -7,7 +7,9 @@ npm clone can use json5
 
 Using npm.
 
+```
 $ npm install -g wdu
+```
 
 Then you can write package.json in json5
 
