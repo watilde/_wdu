@@ -1,7 +1,7 @@
 // This file is written in JSON5 syntax
 {
   name: "wdu",
-  version: "0.0.5",
+  version: "0.0.6",
   description: "npm clone can use json5",
   main: "lib/wdu.js",
   bin: {
