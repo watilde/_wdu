@@ -1,7 +1,7 @@
 {
   "name": "wdu",
   "version": "0.1.0",
-  "description": "npm clone can use json5",
+  "description": "npm command wrapper supports json5",
   "main": "lib/wdu.js",
   "bin": {
     "wdu": "./bin/wdu.js"
