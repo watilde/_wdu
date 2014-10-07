@@ -1,0 +1,19 @@
+// This file is written in JSON5 syntax
+{
+  name: "wdu",
+  version: "0.0.6",
+  description: "npm clone can use json5",
+  main: "lib/wdu.js",
+  bin: {
+    wdu: "./bin/wdu.js"
+  },
+  scripts: {
+    test: "echo \"Error: no test specified\" && exit 1"
+  },
+  author: "Daijiro Wachi",
+  license: "MIT",
+  dependencies: {
+    "json5": "^0.2.0",
+    "npm": "^1.4.23"
+  }
+}
