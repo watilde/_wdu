@@ -1,7 +1,7 @@
 wdu
 ===
 
-npm clone can use json5
+npm command wrapper supports json5
 
 ## Install
 
