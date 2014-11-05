@@ -3,6 +3,12 @@ wdu
 
 npm command wrapper supports json5
 
+## Badges
++ [![NPM Version](http://img.shields.io/npm/v/wdu.svg)](https://www.npmjs.org/package/wdu)
++ [![Build Status](https://api.travis-ci.org/watilde/wdu.svg)](https://travis-ci.org/watilde/wdu)
++ [![Dependency Status](https://gemnasium.com/watilde/wdu.svg)](https://gemnasium.com/watilde/wdu)
++ [![MIT LICENSE](http://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/watilde/wdu/blob/master/LICENSE)
+
 ## Install
 
 Using npm.
