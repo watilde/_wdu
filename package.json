@@ -1,6 +1,6 @@
 {
   "name": "wdu",
-  "version": "0.2.1",
+  "version": "0.3.0",
   "description": "npm command wrapper supports json5",
   "main": "lib/wdu.js",
   "bin": {
